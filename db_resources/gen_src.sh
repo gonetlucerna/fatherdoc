@@ -1,0 +1,1 @@
+java -cp lib/jpa-builder-0.10.9.jar com.tracktopell.dao.builder.jpa.VPModel2DTOAndBeans model/exported/MedEval_project.xml com.gonet.papadoc.model.dto com.gonet.papadoc.model.jpabeans ../src/main/java/ true {all}
